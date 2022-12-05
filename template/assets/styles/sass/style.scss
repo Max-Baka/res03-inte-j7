@@ -20,8 +20,24 @@ body{
                             margin-top: 25px;
                             margin-left: 20vh;
                         
-             }
-          }
-    
-     }
+                             }
+                      }
+                 }
 }
+                 
+                 
+body{
+    header{
+             main{
+                        width: 70vW;
+                     grid-template-columns: repeat(2, 1fr);
+                        .art1{
+                          
+                          }
+                        .tab1{
+                            grid-template-columns: repeat(2, 1fr);
+                            display: grid;
+                            
+                        }
+                 
+}}
